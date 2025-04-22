@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment folders
+.venv/
+env/
+
+# Env files (if storing API keys, etc.)
+*.env
